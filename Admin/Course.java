@@ -1,3 +1,4 @@
+//LMS Course Entity
 class Course{
     int cid;
     String name;
